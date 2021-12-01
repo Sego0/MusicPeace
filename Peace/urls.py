@@ -6,4 +6,6 @@ urlpatterns = [
     path("Sobre/",views.sob, name="Sobre"),
     path("Creacion/",views.crea, name="Creacion"),
     path("Usuarios/",views.usu, name="Usuarios"),
+    path("Login/",views.log , name="Login"),
+    path("Register/",views.reg , name="register")
 ]
