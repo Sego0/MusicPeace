@@ -9,6 +9,7 @@ body{
     background: #092327;
     max-width: 1000px;
     margin: auto;
+    border-radius: 20px;
 }
 
 .menu li a{
@@ -26,4 +27,5 @@ body{
 
 .menu li a:hover{
     background: #E6D954 ;
+    border-radius: 20px;
 }
