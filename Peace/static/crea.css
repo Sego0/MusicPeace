@@ -6,7 +6,7 @@ body{
 .menu{
     list-style: none;
     padding: 0;
-    background: #092327;
+    background: #31646b;
     max-width: 1000px;
     margin: auto;
     border-radius: 20px;
@@ -28,4 +28,57 @@ body{
 .menu li a:hover{
     background: #E6D954 ;
     border-radius: 20px;
+}
+
+#env  {
+    list-style: none;
+    padding: 0;
+    max-width: 1000px;
+    margin: auto;
+    border-radius: 10px;
+    background-color: #E6D954;
+}
+#env input[type="tit"] {
+    position: relative;
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: #fff;
+    border-radius: 10px;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+}
+#env input[type="au"] {
+    position: relative;
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: #fff;
+    border-radius: 10px;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+}
+#env input[type="tit"] {
+    position: static;
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: #fff;
+    border-radius: 10px;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+}
+#env input[type="tit"] {
+    position: static;
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: #fff;
+    border-radius: 10px;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
 }
